@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 600" role="img" aria-labelledby="title desc">
+  <title id="title">Photograph placeholder</title>
+  <desc id="desc">A placeholder frame for a real photograph from Action for Progress activities.</desc>
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#e7e1d3"/>
+      <stop offset="100%" stop-color="#d9d1bf"/>
+    </linearGradient>
+  </defs>
+  <rect width="800" height="600" fill="url(#bg)"/>
+  <rect x="24" y="24" width="752" height="552" rx="28" fill="none" stroke="#bfb6a1" stroke-width="4" stroke-dasharray="14 12"/>
+  <g fill="none" stroke="#8f866f" stroke-width="10" stroke-linecap="round" stroke-linejoin="round">
+    <rect x="220" y="165" width="360" height="270" rx="24"/>
+    <circle cx="320" cy="255" r="34"/>
+    <path d="M250 405l95-95 70 70 55-55 80 80"/>
+  </g>
+  <text x="400" y="500" text-anchor="middle" font-family="Segoe UI, Arial, sans-serif" font-size="34" font-weight="700" fill="#5a5240">Real photograph placeholder</text>
+  <text x="400" y="540" text-anchor="middle" font-family="Segoe UI, Arial, sans-serif" font-size="24" fill="#6b624d">Add consented photos in content/impact.json</text>
+</svg>

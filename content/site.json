@@ -1,0 +1,24 @@
+{
+  "name": "Action for Progress",
+  "url": "https://actionforprogress.example",
+  "description": "Action for Progress is a charitable organization in Brookfields, west end of Freetown, Sierra Leone. It supports less privileged girls, mothers and children through advocacy, donation and sensitization.",
+  "missionLine": "Supporting less privileged girls, mothers and children through advocacy, donation and sensitization.",
+  "facebook": "https://facebook.com/tinapnow",
+  "email": "[EMAIL ADDRESS]",
+  "phone": "[PHONE NUMBER]",
+  "whatsapp": "[WHATSAPP NUMBER]",
+  "whatsappLink": "",
+  "address": {
+    "street": "[STREET ADDRESS]",
+    "area": "Brookfields",
+    "city": "Freetown",
+    "country": "Sierra Leone"
+  },
+  "hours": "[OPENING HOURS]",
+  "mapUrl": "https://www.google.com/maps/search/?api=1&query=Brookfields%2C+Freetown%2C+Sierra+Leone",
+  "formEndpoint": "",
+  "responseTime": "[RESPONSE TIME]",
+  "registrationNumber": "[REGISTRATION NUMBER]",
+  "yearFounded": "[YEAR FOUNDED]",
+  "themeColor": "#16204A"
+}

@@ -1,0 +1,45 @@
+{
+  "hero": {
+    "eyebrow": "Brookfields, west end of Freetown",
+    "title": "Supporting less privileged girls, mothers and children.",
+    "text": "Action for Progress is a charitable organization working through advocacy, donation and sensitization, with a focus on girl child education and the child and maternal death rate.",
+    "primaryCta": { "label": "Donate", "href": "/get-involved/#donate" },
+    "secondaryCta": { "label": "Get involved", "href": "/get-involved/" }
+  },
+  "intro": {
+    "eyebrow": "Who we are",
+    "title": "A local organization with two clear focus areas.",
+    "text": "We support less privileged girls, mothers and children in our community. Our work is delivered through advocacy, donation and sensitization."
+  },
+  "how": {
+    "eyebrow": "How we work",
+    "title": "Advocacy, donation and sensitization.",
+    "items": [
+      {
+        "title": "Advocacy",
+        "text": "Speaking up for the needs of less privileged girls, mothers and children."
+      },
+      {
+        "title": "Donation",
+        "text": "Working with supporters to provide practical help to the people we serve."
+      },
+      {
+        "title": "Sensitization",
+        "text": "Raising awareness in the community on the issues that affect girls, mothers and children."
+      }
+    ]
+  },
+  "stories": {
+    "eyebrow": "Impact and stories",
+    "title": "A story from our community.",
+    "pendingTitle": "Stories are published with consent.",
+    "pendingText": "We publish beneficiary stories only after written consent has been confirmed. A consented story will appear here, and in our impact section.",
+    "cta": "Read our impact and stories"
+  },
+  "news": {
+    "eyebrow": "News and activities",
+    "title": "Updates from our work.",
+    "emptyText": "Website news will appear here as updates are added. For current activities, visit our Facebook page.",
+    "cta": "Visit our Facebook page"
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "name": "action-for-progress",
+  "version": "1.0.0",
+  "private": true,
+  "type": "module",
+  "description": "Official website for Action for Progress, Brookfields, west end of Freetown.",
+  "scripts": {
+    "build": "node scripts/build.mjs",
+    "dev": "node scripts/dev.mjs",
+    "preview": "node scripts/dev.mjs --no-watch",
+    "check:placeholders": "node scripts/check-placeholders.mjs",
+    "check:launch": "node scripts/check-placeholders.mjs --launch"
+  }
+}

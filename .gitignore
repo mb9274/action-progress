@@ -1,0 +1,39 @@
+# Build output
+dist/
+.astro/
+
+# Dependencies
+node_modules/
+
+# Logs
+npm-debug.log*
+npm-install.log
+yarn-debug.log*
+yarn-error.log*
+pnpm-debug.log*
+
+# Environment
+.env
+.env.*
+!.env.example
+
+# Editor and OS files
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
+
+# Local Netlify / Cloudflare files
+.netlify/
+.wrangler/
+
+# Local temp
+dev.log
+build.status.txt
+_tmp.txt
+hex.txt
+make-images.out.txt
+build.out.txt
+dir.txt
+space.txt
+rootfiles.txt

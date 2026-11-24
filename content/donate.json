@@ -1,0 +1,32 @@
+{
+  "heading": "Support our work",
+  "intro": "Your gift helps Action for Progress support less privileged girls, mothers and children in Brookfields and across Freetown.",
+  "pendingMessage": "Donation details are being finalised. Please contact us if you would like to give today.",
+  "receivingNote": "[WHO RECEIVES THE MONEY]",
+  "methods": [
+    {
+      "label": "Mobile money",
+      "enabled": false,
+      "lines": [
+        "[MOBILE MONEY PROVIDER]",
+        "[MOBILE MONEY NUMBER]",
+        "[ACCOUNT NAME]"
+      ]
+    },
+    {
+      "label": "Bank transfer",
+      "enabled": false,
+      "lines": [
+        "[BANK NAME]",
+        "[ACCOUNT NAME]",
+        "[ACCOUNT NUMBER]"
+      ]
+    },
+    {
+      "label": "Online payment link",
+      "enabled": false,
+      "url": "[PAYMENT LINK]",
+      "lines": []
+    }
+  ]
+}
