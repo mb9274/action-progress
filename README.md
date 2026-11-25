@@ -111,7 +111,15 @@ dist/             Built site output (generated)
 
 ## Deploy (free hosting)
 
-The site builds to static files in `dist/` — no server required.
+The site builds to static files in `dist/` — no server required. `vercel.json` is included with the build command and output directory so Vercel deploys correctly.
+
+### Vercel
+
+1. Push this repository to GitHub/GitLab.
+2. In Vercel → Add New → Project → import the repo.
+3. Keep the **Root Directory** as the repository root (do not set it to `dist` or `public`).
+4. Vercel will read `vercel.json`: build command `npm run build`, output directory `dist`.
+5. Deploy. If the project already exists, go to **Settings → General** and confirm the Root Directory is the repo root, then redeploy.
 
 ### Cloudflare Pages
 
